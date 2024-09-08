@@ -1,3 +1,6 @@
 ### **Kenny Light**
 
 Hi, my name is Kenny Light and I currently live in Fort Myers, FL.  I graduated with a degree in Management Information Systems from USF in 2000.  I'm pursuing a masters degree in Software Development.  I'm employed with U.S. Sugar as a Sr. Software Developer, primarely developing with c#, .net, Visual Studio, SQL Server, MVC, WPF, Jquery, Javascript, SSRS, HTML, and CSS.  I'm almost finished with a laboratory information management system (LIMS) application.  This application connects to sugar analysis devices, pulls final analysis, and saves to a database.  I look forward to learning from my peers as well as the teachers/facilitators.
+
+
+Hi, my name is Rich Frechette, I live in Boston, MA. I graduated from Penn State with BS in Electrical Engineering in 2019. I am pursuing a masters in Software Development with BU. I am a Product/Test Engineer for Analog Devices working on Radio Frequency Testing for semiconductor chips. I use LabVIEW and Python to develop automated tests utilizing external measurement and power supply equipment. In my previous role I developed similar automated testing using C#. 
