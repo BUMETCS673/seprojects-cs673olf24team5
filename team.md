@@ -4,3 +4,5 @@ Hi, my name is Kenny Light and I currently live in Fort Myers, FL.  I graduated 
 
 
 Hi, my name is Rich Frechette, I live in Boston, MA. I graduated from Penn State with BS in Electrical Engineering in 2019. I am pursuing a masters in Software Development with BU. I am a Product/Test Engineer for Analog Devices working on Radio Frequency Testing for semiconductor chips. I use LabVIEW and Python to develop automated tests utilizing external measurement and power supply equipment. In my previous role I developed similar automated testing using C#. 
+
+My name is Max Zink. I'm currently living in North Hollywood, CA. I graduated from Pepperdine in 2022 with a BS in Computer Science and a BA in Theatre. I am currently pursuing my masters in software development. Over the years, I've used C, C++, Java, Python, Prolog, R, and more recently, Javascript and SQL. A few projects I've completed include a compiler that translates assembly language into machine language, written in C++, and a Python-based .WAV player. Despite some gaps in my knowledge regarding C# and Javascript, I'm excited to learn from and with my teammates.
