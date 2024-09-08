@@ -4,3 +4,6 @@ Hi, my name is Kenny Light and I currently live in Fort Myers, FL.  I graduated 
 
 
 Hi, my name is Rich Frechette, I live in Boston, MA. I graduated from Penn State with BS in Electrical Engineering in 2019. I am pursuing a masters in Software Development with BU. I am a Product/Test Engineer for Analog Devices working on Radio Frequency Testing for semiconductor chips. I use LabVIEW and Python to develop automated tests utilizing external measurement and power supply equipment. In my previous role I developed similar automated testing using C#. 
+
+
+Hello, I am Abdallah El Hamawi, I currently lie in Seattle, WA. I am completeing my masters in Software Development. I have 4 courses left to graduate including this one. I decided to take a break for a year because my wife and I welcomed our baby daughter last fall. My background is mainly in union organizing and labor relations. I decided to persue this masters to expand on my expertise and to explore different career options later on. I look forward to working with you all!
