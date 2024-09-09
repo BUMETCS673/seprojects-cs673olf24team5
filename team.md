@@ -1,5 +1,3 @@
-### **Kenny Light**
-
 Hi, my name is Kenny Light and I currently live in Fort Myers, FL.  I graduated with a degree in Management Information Systems from USF in 2000.  I'm pursuing a masters degree in Software Development.  I'm employed with U.S. Sugar as a Sr. Software Developer, primarely developing with c#, .net, Visual Studio, SQL Server, MVC, WPF, Jquery, Javascript, SSRS, HTML, and CSS.  I'm almost finished with a laboratory information management system (LIMS) application.  This application connects to sugar analysis devices, pulls final analysis, and saves to a database.  I look forward to learning from my peers as well as the teachers/facilitators.
 
 
